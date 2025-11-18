@@ -6,3 +6,4 @@
 *.swo
 /.vscode
 /benches/small.mp4
+process-repo.log
